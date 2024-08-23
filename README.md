@@ -1,4 +1,4 @@
-# untitled3
+# ThimarApp
 
 A new Flutter project.
 
